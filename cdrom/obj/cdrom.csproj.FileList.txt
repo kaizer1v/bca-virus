@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\cdrom.Form1.resources
+obj\Debug\cdrom.Properties.Resources.resources
+obj\Debug\cdrom.csproj.GenerateResource.Cache
+bin\Debug\cdrom.exe
+bin\Debug\cdrom.pdb
+obj\Debug\cdrom.exe
+obj\Debug\cdrom.pdb
